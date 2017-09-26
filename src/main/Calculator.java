@@ -22,4 +22,8 @@ public class Calculator {
 		return a * b * b;
 	}
 
+	public static void div() {
+	}
+
+
 }
