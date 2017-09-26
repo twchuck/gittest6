@@ -25,5 +25,7 @@ public class CalculatorB2 {
 	public static void div() {
 	}
 
+	public static void div2() {
+	}
 
 }
