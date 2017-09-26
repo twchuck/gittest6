@@ -32,5 +32,6 @@ public class Calculator {
 
 	public static void div() {
 	}
-
+	public static void div2() {
+	}
 }
