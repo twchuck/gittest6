@@ -22,15 +22,4 @@ public class Calculator {
 		return a * b * b;
 	}
 
-	public static void div() {
-	}
-
-	public static void div2() {
-	}
-
-	public static void div3() {
-	}
-
-	public static void div4() {
-	}
 }
