@@ -27,6 +27,10 @@ public class Calculator {
 
 	public static void div2() {
 	}
+
 	public static void div3() {
+	}
+
+	public static void div4() {
 	}
 }
